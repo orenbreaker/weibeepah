@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ocohrootoc.daggerfalldeutsch.de/sitemap.xml
